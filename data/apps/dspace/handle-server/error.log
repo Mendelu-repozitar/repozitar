@@ -1,0 +1,7 @@
+"2021/06/03 04:14:15 CEST" 25 Started new run.
+java.lang.Exception: Error processing server backup administrator list: java.lang.Exception: Invalid server backup administrator ID: "20.500.12698"
+	at net.handle.server.HandleServer.<init>(HandleServer.java:449)
+	at net.handle.server.AbstractServer.getInstance(AbstractServer.java:72)
+	at net.handle.server.Main.initialize(Main.java:152)
+	at net.handle.server.Main.main(Main.java:75)
+Shutting down...
